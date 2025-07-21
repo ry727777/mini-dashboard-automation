@@ -3,7 +3,7 @@ import pytest
 import random
 import allure
 
-@pytest.mark.regression
+
 @pytest.mark.regression
 @allure.feature("Add User Order")
 @allure.story("Add User Order Tests")
